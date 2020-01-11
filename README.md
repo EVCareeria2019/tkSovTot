@@ -1,2 +1,3 @@
 # tkSovTot
 Tietokantasovellusten toteuttaminen
+Testataan versionhallinnan toimintaa
