@@ -1,0 +1,2 @@
+# tkSovTot
+Tietokantasovellusten toteuttaminen
